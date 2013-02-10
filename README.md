@@ -1,7 +1,4 @@
 TatooineCantinaBand
 ===================
 
-Civilization-like mobile strategy game based on real-world checkins.
-
-Patrick Penderville
-Ben Chen
+Civilization-like mobile strategy game based on real-world check-ins.
